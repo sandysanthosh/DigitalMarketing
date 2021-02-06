@@ -34,3 +34,22 @@ Influencer Marketing
 
 ```
 
+### Social-Media:
+
+```
+
+Google - GMAP Extractor, GSearch Engine, Business Panel Dashboard
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Gmap Extractor
+
+India-mart
+
+JustDial
+
+```
