@@ -40,6 +40,8 @@ Influencer Marketing
 
 Google - GMAP Extractor, GSearch Engine, Business Panel Dashboard
 
+Email Marketing - MAILCHIP
+
 Facebook
 
 Instagram
