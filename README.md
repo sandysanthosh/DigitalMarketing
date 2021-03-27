@@ -61,6 +61,7 @@ SEO, ppc, content marketing,
 Digital analytics, social media, 
 Mobile marketing,
 Google analytics certificate
+Google Tag Manager
 ```
 
 
